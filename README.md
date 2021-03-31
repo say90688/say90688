@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Notion Address
+https://www.notion.so/Name-8286dbdf76a24652a81100f73417144d
 <!--
 **say90688/say90688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
